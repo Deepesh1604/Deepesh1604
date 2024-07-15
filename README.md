@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepesh Kumar Dawar</h1>
-<h3 align="center">A passionate data enthusiast from India</h3>
+<h3>🇮🇳 A passionate data enthusiast from India,</h3>
+<h3>📈 Focused on Data Science, AI/ML enthusiast.</h3>
+<h3>🕥 Continuous skill improvement, innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepesh1604&label=Profile%20views&color=0e75b6&style=flat" alt="deepesh1604" /> </p>
 
