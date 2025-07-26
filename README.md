@@ -16,13 +16,25 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepesh1604&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh1604&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepesh1604&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh1604&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepesh1604&theme=tokyonight" alt="deepesh1604" />
+  <img src="https://streak-stats.demolab.com/?user=deepesh1604&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<!-- Alternative GitHub Stats (uncomment if above doesn't work) -->
+<!--
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepesh1604&theme=radical" alt="GitHub Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepesh1604&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepesh1604&theme=radical" alt="Top Languages"/>
+</div>
+-->
 
 ## 🚀 About Me
 
@@ -93,13 +105,26 @@ current_focus = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepesh1604&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=c9d1d9&area=true&hide_border=false" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepesh1604&theme=radical&bg_color=0d1117&color=f85149&line=f85149&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
+
+<!-- Alternative Activity Graph (uncomment if above doesn't work) -->
+<!--
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepesh1604&theme=radical&utc_offset=5.5" alt="Productive Time"/>
+</div>
+-->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepesh1604&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=deepesh1604&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+<!-- Simple GitHub metrics as fallback -->
+<div align="center">
+  <img src="https://img.shields.io/github/followers/deepesh1604?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/deepesh1604?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub stars"/>
 </div>
 
 ## 📊 Weekly Development Breakdown
