@@ -15,10 +15,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepesh1604&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<!-- <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepesh1604&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/> -->
+<div align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh1604&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=deepesh1604&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -41,7 +43,6 @@
 - 🔭 I'm currently working on **Data Science and Machine Learning projects**
 - 🌱 I'm currently learning **Advanced AI/ML techniques and Deep Learning**
 - 👯 I'm looking to collaborate on **Open Source Data Science projects**
-- 🤔 I'm looking for help with **MLOps and Production ML systems**
 - 💬 Ask me about **Python, Data Analysis, Machine Learning**
 - 📫 How to reach me: **22f2001290@ds.study.iitm.ac.in**
 - ⚡ Fun fact: **I love exploring new datasets and finding hidden patterns!**
