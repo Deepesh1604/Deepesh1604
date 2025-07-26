@@ -115,8 +115,9 @@ current_focus = {
 
 ## 🏆 GitHub Trophies
 
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepesh1604&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=deepesh1604&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=5" alt="GitHub Trophies"/>
 </div>
 
 <!-- Simple GitHub metrics as fallback -->
