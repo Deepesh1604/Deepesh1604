@@ -15,12 +15,9 @@
 
 ## 📊 GitHub Stats
 
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepesh1604&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/> -->
-<div align="center">  
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh1604&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </div>
-
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=deepesh1604&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -94,13 +91,13 @@ current_focus = {
 ## 🛠️ Tools & IDEs
 
 <p align="center">
-  <img src="https://imgs.search.brave.com/dhlg2llpJiilp7TBoA4ENKc4IhwzDMdr33Y_iY_8kvA/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85LzlhL1Zp/c3VhbF9TdHVkaW9f/Q29kZV8xLjM1X2lj/b24uc3ZnLzUxMnB4/LVZpc3VhbF9TdHVk/aW9fQ29kZV8xLjM1/X2ljb24uc3ZnLnBu/Zw" width="60" height="60" alt="VS Code"/>
-  <img src="https://imgs.search.brave.com/emnFTmUzq4BKVcmPKxw8ob3QVwpJhGEUtwrOzZIBqnI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9qdXB5/dGVyLm9yZy9hc3Nl/dHMvdHJ5L2p1cHl0/ZXIucG5n" width="60" height="60" alt="Jupyter"/>
-  <img src="https://imgs.search.brave.com/RUoK3EF7Fjo4yuClAeJHqCHsFTzZ_KnBrhQBsswKZ50/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9rYWdnbGUt/aWNvbi0xMDI0eDEw/MjQtMGoxcDVibzUu/cG5n" width="50" height="50" alt="Kaggle"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="60" height="60" alt="IntelliJ"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" width="50" height="50" alt="Anaconda"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60" height="60" alt="Git"/>
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="60" height="60" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="60" height="60" alt="Kaggle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" height="60" alt="IntelliJ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="60" height="60" alt="Anaconda"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/>
 </p>
 
 ## 📈 Activity Graph
@@ -123,10 +120,10 @@ current_focus = {
 </div>
 
 <!-- Simple GitHub metrics as fallback -->
-<div align="center">
+<!--  <div align="center">
   <img src="https://img.shields.io/github/followers/deepesh1604?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/deepesh1604?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub stars"/>
-</div>
+</div> -->
 
 ## 📊 Weekly Development Breakdown
 
