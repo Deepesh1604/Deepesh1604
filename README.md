@@ -127,10 +127,6 @@ current_focus = {
   <img src="https://img.shields.io/github/stars/deepesh1604?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub stars"/>
 </div> -->
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## 🤝 Connect with me
 
@@ -165,10 +161,6 @@ current_focus = {
 - 🎮 When not coding, I enjoy solving algorithmic puzzles
 - 📚 Always reading about the latest developments in AI/ML
 - 🌱 Believer in the power of continuous learning
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
